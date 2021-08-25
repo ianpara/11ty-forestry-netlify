@@ -27,3 +27,5 @@ fields:
   config:
     required: false
   label: Description
+pages:
+- src/products/classic-hoodie.md
